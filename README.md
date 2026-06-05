@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I am Teio177
+
+I'am student in first year of computer sciences , i am learning C# , C , Html,CSS , JAVA SCRIPT and JAVA.
+
+
 
 <!--
 **teio177/teio177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
