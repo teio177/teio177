@@ -3,6 +3,11 @@
 I'am student in first year of computer sciences , i am learning C# , C , Html,CSS , JAVA SCRIPT and JAVA.
 
 
+## Programing 
+
+My favorite language are  JAVA  because you can dev mobile application with Java and i like that, and also JAVA is a object-oriented language very useful for maintenance because is much easy that other languages and for doing test for me .
+What i would to learn  is C++
+ 
 
 <!--
 **teio177/teio177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
