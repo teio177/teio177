@@ -6,7 +6,7 @@ I'am student in first year of computer sciences , i am learning C# , C , Html,CS
 ## Programing 
 
 My favorite language are  JAVA  because you can dev mobile application with Java and i like that, and also JAVA is a object-oriented language very useful for maintenance because is much easy that other languages and for doing test for me .
-What i would to learn  is C++
+What i would to learn  is C++ , is a multiskilling language you can do what you want do , create games , application also
  
 
 <!--
