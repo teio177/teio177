@@ -7,9 +7,15 @@ I'am student in first year of computer sciences , i am learning C# , C , Html,CS
 
 ## Programing 
 
-My favorite language are  JAVA  because you can dev mobile application with Java and i like that, and also JAVA is a object-oriented language very useful for maintenance because is much easy that other languages and for doing test for me .
-What i would to learn  is C++ , is a multiskilling language you can do what you want do , create games , application also
- 
+## 💻 Programming Languages & Technologies
+
+### 🛠️ Currently learning and using:
+* **Java** : My favorite language! I really enjoy developing mobile applications with it. Its object-oriented structure makes code maintenance much easier compared to other languages.
+* **C & C#** : Discovering lower-level concepts and system programming.
+* **HTML / CSS & JavaScript** : Building the foundations for web development.
+
+### 🎯 Next Destination:
+* **C++** : I'm highly motivated to learn C++. It's a powerful and versatile language that allows you to do almost anything, from building high-performance applications to game development.
 
 <!--
 **teio177/teio177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
