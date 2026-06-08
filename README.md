@@ -1,9 +1,5 @@
-## Hi there 👋 I am Teio177
 
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2g0Y2ptbXp5YmF5am90N3VwZW14dnZ4dnZ4dnZ4dnZ4dnZ4dnZ4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3kTwtVpCMLY0r0JgD/giphy.gif" width="60%" alt="Space Exploration Animation" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&width=435&lines=Hi+i+am+TEIO177+)](https://git.io/typing-svg)
 
 
 I'am student in first year of computer sciences , i am learning C# , C , Html,CSS , JAVA SCRIPT and JAVA.
